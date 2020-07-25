@@ -85,7 +85,7 @@ App = {
             $(".panel-pet")
               .eq(i)
               .find("button")
-              .text("Success")
+              .text("Captured")
               .attr("disabled", true);
           }
         }
