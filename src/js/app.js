@@ -85,7 +85,7 @@ App = {
             $(".panel-dino")
               .eq(i)
               .find("button")
-              .text("Captured")
+              .html("Captured")
               .attr("disabled", true);
           }
         }
