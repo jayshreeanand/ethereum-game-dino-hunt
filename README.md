@@ -1,7 +1,6 @@
 # ethereum-game-dino-hunt
-Ethereum Blockchain Game using Solidity
 
-This is an Blockchain based game built using Ethereum
+This is an Blockchain based game built using Ethereum and solidity. This is a decentralized game that lets you capture Dinos which are generated using a Dino Factory. 
 
 Tech specs
 - Ethereum blockchain
@@ -10,8 +9,9 @@ Tech specs
 - Web3 JS for frontend development
 - Metamask as Gateway to blockchain
 - Bootstrap frontend Framework
+- Lite server for deployment
 
-##Development
+## Development
 - Ganache for Test/ Develoment 
 - MetaMask 
 
