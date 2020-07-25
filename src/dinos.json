@@ -28,5 +28,20 @@
     "id": 5,
     "name": "Dino Eggs",
     "picture": "images/dino6.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Spinosaurus",
+    "picture": "images/dino3.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Stegosaurus",
+    "picture": "images/dino1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Brachiosaurus",
+    "picture": "images/dino2.jpg"
   }
 ]
